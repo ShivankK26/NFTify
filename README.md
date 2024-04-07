@@ -1,4 +1,4 @@
-**NFTify: Wallet-Linked Image Minting Madness**
+#NFTify: Wallet-Linked Image Minting Madness
 
 Welcome to NFTify! This project is a wild ride into the realm of non-fungible tokens (NFTs), where you can turn your images into unique digital assets on the Solana blockchain. With wallet connectivity and MongoDB integration, NFTify provides a seamless experience for minting NFTs and tracking ownership.
 
